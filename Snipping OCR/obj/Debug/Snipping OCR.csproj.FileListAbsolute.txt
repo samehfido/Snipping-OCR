@@ -1,0 +1,40 @@
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\eng.cube.fold
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\eng.cube.lm
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\eng.cube.nn
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\eng.cube.params
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\eng.cube.size
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\eng.traineddata
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\spa.cube.bigrams
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\spa.cube.fold
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\spa.cube.lm
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\spa.cube.nn
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\spa.cube.params
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\spa.cube.size
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\spa.cube.word-freq
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\tessdata\spa.traineddata
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\Snipping OCR.exe.config
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\Snipping OCR.exe.manifest
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\Snipping OCR.application
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\Snipping OCR.exe
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\Snipping OCR.pdb
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\Tesseract.dll
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping OCR.csproj.AssemblyReference.cache
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping_OCR.MainForm.resources
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping_OCR.OcrResultForm.resources
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping_OCR.Properties.Resources.resources
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping OCR.csproj.GenerateResource.cache
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping OCR.csproj.CoreCompileInputs.cache
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping OCR.exe.manifest
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping OCR.application
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping.BAA8F28C.Up2Date
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping OCR.exe
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\obj\Debug\Snipping OCR.pdb
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\x86\tesseract50.dll
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\Loq\Desktop\Snipping-Ocr-master\Snipping OCR\bin\Debug\x64\tesseract50.dll
